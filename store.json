@@ -1,0 +1,6 @@
+{
+  "items": [
+    { "id": "speed_boost", "price_coins": 200, "price_gems": 0 },
+    { "id": "revive", "price_coins": 0, "price_gems": 5 }
+  ]
+}

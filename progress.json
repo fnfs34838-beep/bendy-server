@@ -1,0 +1,10 @@
+{
+  "player_id": "123456",
+  "level": 4,
+  "bosses_defeated": 2,
+  "powerups": {
+    "speed": 2,
+    "health": 1,
+    "ink_bombs": 3
+  }
+}

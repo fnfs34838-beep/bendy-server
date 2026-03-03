@@ -1,0 +1,8 @@
+{
+  "player_id": "123456",
+  "new_player": false,
+  "coins": 500,
+  "gems": 20,
+  "unlocked_characters": ["bendy", "alice"],
+  "session_token": "ABCDEF123456"
+}
